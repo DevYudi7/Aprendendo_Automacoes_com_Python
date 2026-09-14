@@ -1,4 +1,4 @@
-# Exercícios de Automação com Python
+# Exercícios de Automação com Python 
 
 Repositório criado para armazenar meus exercícios e práticas de automação utilizando Python.
 
@@ -7,6 +7,8 @@ Repositório criado para armazenar meus exercícios e práticas de automação u
 Durante meus estudos de Python, estou aprendendo a desenvolver automações para facilitar tarefas do dia a dia e melhorar minha lógica de programação.
 
 Este repositório reúne exercícios e pequenos projetos desenvolvidos para praticar conceitos de automação e conhecer bibliotecas utilizadas nessa área.
+
+É válido salientar que os exercícios que eu fiz são de um curso de automação com Python do professor Irlan Ferreira (Lan Code).
 
 ## Conteúdos estudados
 
